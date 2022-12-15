@@ -27,9 +27,9 @@ This project is apart of the Hardhat FreeCodeCamp video.
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
-cd hardhat-fund-me-fcc
-yarn
+git clone https://github.com/algoexpert-io/chainlink-project-1
+cd chainlink-project-1
+npm i
 ```
 
 # Usage
