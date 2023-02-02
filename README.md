@@ -11,8 +11,6 @@ This is a demo project that shows you how to make a crowd sourcing application t
 - [Deployment to a testnet or mainnet](#deployment-to-a-testnet-or-mainnet)
 - [Thank you!](#thank-you)
 
-This project is apart of the Hardhat FreeCodeCamp video.
-
 # Getting Started
 
 ## Requirements
