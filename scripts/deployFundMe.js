@@ -25,7 +25,7 @@ async function deployFundMe() {
   } else {
     mockPriceFeedAddress = networkConfig[chainId]["ethUsdPriceFeed"];
   }
-
+  console.log("Deploying, please wait...")
   const fundMeFacotry = await ethers.getContractFactory("FundMe");
   const fundMe = await fundMeFacotry
     .connect(deployer)
